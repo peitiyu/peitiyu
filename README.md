@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 1. i love bear
 
 > :heart: I also love painting
+
+![cat](https://raw.githubusercontent.com/peitiyu/peitiyu/master/images/7A3FD0D1-10A1-4F2B-B94D-C770E88C83F3.jpeg)
