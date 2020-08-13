@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# :smile: I am peiti
+
+## cat
+
+- l love coding
+
+1. i love bear
+
+> :heart: I also love painting
