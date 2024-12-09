@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :smile: I am peiti
+# :smile: I am Peiti
 
 ## cat
 
 - l love coding
 
-1. i love bear
-
-> :heart: I also love painting
+> :heart: I also love painting/running/reading/travelling
 
 [![cat](https://raw.githubusercontent.com/peitiyu/peitiyu/master/images/7A3FD0D1-10A1-4F2B-B94D-C770E88C83F3.jpeg)](https://github.com/peitiyu/peitiyu/tree/master/leetcode)
